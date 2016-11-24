@@ -9,3 +9,7 @@
 ## Analytics and A/B testing
 
 - https://zarget.com/
+
+## Recomendations as a service
+
+- https://www.sajari.com/recommend
