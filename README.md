@@ -17,4 +17,4 @@
 
 ## Images
 
-- Image crompression for mac - https://realmacsoftware.com/squash/?ref=producthunt
+- Image crompression for mac - https://realmacsoftware.com/squash/
