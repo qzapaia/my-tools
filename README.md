@@ -2,19 +2,30 @@
 
 # --- To Review ---
 
-## Server
+
+
+## SAAS
+
+### Server
 
 - Remote environments - https://stolos.io/
 
-## Analytics and A/B testing
+### Analytics and A/B testing
 
 - https://zarget.com/
 
-## Recomendations as a service
+### Recomendations as a service
 
 - https://www.sajari.com/recommend
 
 
-## Images
+## Desktop
 
-- Image crompression for mac - https://realmacsoftware.com/squash/
+- Image compression for mac - https://realmacsoftware.com/squash/
+
+
+
+## Javascript Utils
+
+- AJAX calls from html attributes - https://github.com/LeadDyno/intercooler-js
+- Image comparison - https://github.com/mapbox/pixelmatch?utm_source
