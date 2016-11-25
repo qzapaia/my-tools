@@ -13,3 +13,8 @@
 ## Recomendations as a service
 
 - https://www.sajari.com/recommend
+
+
+## Images
+
+- Image crompression for mac - https://realmacsoftware.com/squash/?ref=producthunt
