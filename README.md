@@ -10,6 +10,9 @@
 
 - Remote environments - https://stolos.io/
 
+### Machine learning
+- https://bigml.com
+
 ### Analytics and A/B testing
 
 - https://zarget.com/
