@@ -12,6 +12,7 @@
 
 ### Machine learning
 - https://bigml.com
+- Jobs API - https://cloud.google.com/jobs-api/
 
 ### Analytics and A/B testing
 
