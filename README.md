@@ -2,7 +2,8 @@
 
 # --- To Review ---
 
-
+## React
+- Client and Server rendering simple - https://zeit.co/blog/next
 
 ## SAAS
 
