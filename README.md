@@ -39,3 +39,4 @@ https://bitcoinjs.org/
 
 - AJAX calls from html attributes - https://github.com/LeadDyno/intercooler-js
 - Image comparison - https://github.com/mapbox/pixelmatch?utm_source
+- Type Effect - https://github.com/luisvinicius167/ityped
