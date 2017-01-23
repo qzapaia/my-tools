@@ -35,8 +35,12 @@
 
 https://bitcoinjs.org/
 
+# Development
+- Take screenshots of your development while you develop - https://github.com/typicode/tlapse
+
 ## Javascript Utils
 
 - AJAX calls from html attributes - https://github.com/LeadDyno/intercooler-js
 - Image comparison - https://github.com/mapbox/pixelmatch?utm_source
 - Type Effect - https://github.com/luisvinicius167/ityped
+- Motion - http://mojs.io/
