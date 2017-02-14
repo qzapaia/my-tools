@@ -44,6 +44,7 @@
   - Image comparison - https://github.com/mapbox/pixelmatch?utm_source
   - Type Effect - https://github.com/luisvinicius167/ityped
   - Motion - http://mojs.io/
+  - Animate.css using web animations API - https://github.com/gibbok/animatelo
 
 ## Email
   - Responsive emails made easy using React - https://mjml.io/
