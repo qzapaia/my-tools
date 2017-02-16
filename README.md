@@ -46,7 +46,9 @@
 
   - AJAX calls from html attributes - https://github.com/LeadDyno/intercooler-js
   - Image comparison - https://github.com/mapbox/pixelmatch?utm_source
-  - Type Effect - https://github.com/luisvinicius167/ityped
+  - Type Effect 
+    - https://github.com/luisvinicius167/ityped
+    - https://safi.me.uk/typewriterjs/
   - Motion - http://mojs.io/
   - Animate.css using web animations API - https://github.com/gibbok/animatelo
 
