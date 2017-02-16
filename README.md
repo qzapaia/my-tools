@@ -42,6 +42,9 @@
   https://bitcoinjs.org/
 
 
+## Webpack
+  - https://github.com/mozilla-rpweb/webpack-chain
+
 ## Javascript Utils
 
   - AJAX calls from html attributes - https://github.com/LeadDyno/intercooler-js
