@@ -26,6 +26,10 @@
   ### Recomendations as a service
 
   - https://www.sajari.com/recommend
+  
+  ### Error detection
+  
+  - https://www.bugsnag.com/platforms/javascript/
 
 
 ## Desktop
