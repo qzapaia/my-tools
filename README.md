@@ -18,6 +18,7 @@
   - https://bigml.com
   - Jobs API - https://cloud.google.com/jobs-api/
   - https://cloud.google.com/prediction/
+  - https://www.floydhub.com/
 
   ### Analytics and A/B testing
 
