@@ -62,3 +62,6 @@
 
 ## Email
   - Responsive emails made easy using React - https://mjml.io/
+
+# MISC
+  - https://www.and.co/the-freelance-contract
