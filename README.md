@@ -59,6 +59,9 @@
     - https://safi.me.uk/typewriterjs/
   - Motion - http://mojs.io/
   - Animate.css using web animations API - https://github.com/gibbok/animatelo
+  - Video viewer Youtube, Vimeo & mp4 - https://github.com/henrygd/bigpicture
+  - Transform URLs to links - http://alexcorvi.github.io/anchorme.js
+  - Crossbrowser localStorage - https://github.com/marcuswestin/store.js
 
 ## Email
   - Responsive emails made easy using React - https://mjml.io/
