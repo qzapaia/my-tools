@@ -28,6 +28,9 @@
 
   - https://www.sajari.com/recommend
   
+  ### Chat as a service
+  - https://sendbird.com/?ref=producthunt
+  
   ### Error detection
   
   - https://www.bugsnag.com/platforms/javascript/
