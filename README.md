@@ -38,6 +38,7 @@
   ### Location Services
   
   - https://www.onradar.com/
+  
 
 
 ## Desktop
@@ -65,7 +66,8 @@
   - Video viewer Youtube, Vimeo & mp4 - https://github.com/henrygd/bigpicture
   - Transform URLs to links - http://alexcorvi.github.io/anchorme.js
   - Crossbrowser localStorage - https://github.com/marcuswestin/store.js
-
+  - Mini reset css ❤️ - https://github.com/jgthms/minireset.css
+  
 ## Email
   - Responsive emails made easy using React - https://mjml.io/
 
