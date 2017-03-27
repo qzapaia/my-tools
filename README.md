@@ -67,6 +67,7 @@
   - Transform URLs to links - http://alexcorvi.github.io/anchorme.js
   - Crossbrowser localStorage - https://github.com/marcuswestin/store.js
   - Mini reset css - https://github.com/jgthms/minireset.css
+  - Move To - https://github.com/hsnaydd/moveTo
   
 ## Email
   - Responsive emails made easy using React - https://mjml.io/
