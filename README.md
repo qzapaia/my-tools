@@ -45,6 +45,7 @@
 
   - Image compression for mac - https://realmacsoftware.com/squash/
   - Take screenshots of your development while you develop - https://github.com/typicode/tlapse
+  - Test resolutions when responsive design - http://sizzy.co/
   
 ## Bitcoint
 
