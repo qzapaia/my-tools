@@ -54,6 +54,7 @@
 
 ## Webpack
   - https://github.com/mozilla-rpweb/webpack-chain
+  - https://github.com/NekR/offline-plugin
 
 ## Javascript Utils
 
