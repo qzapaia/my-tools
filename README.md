@@ -55,6 +55,7 @@
 ## Webpack
   - https://github.com/mozilla-rpweb/webpack-chain
   - https://github.com/NekR/offline-plugin
+  - https://github.com/asfktz/autodll-webpack-plugin/blob/master/README.md
 
 ## Javascript Utils
 
