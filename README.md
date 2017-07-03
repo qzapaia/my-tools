@@ -1,12 +1,47 @@
-# my-tools
-
 # --- To Review ---
 
 ## IoT
   - Create displays anywhere - http://googlecreativelab.github.io/anypixel/
+  
+## Atom
+
+  - https://github.com/algolia/atom-autocomplete-module-import
 
 ## React
   - Client and Server rendering simple - https://zeit.co/blog/next
+
+## Desktop
+
+  - Image compression for mac - https://realmacsoftware.com/squash/
+  - Take screenshots of your development while you develop - https://github.com/typicode/tlapse
+  - Test resolutions when responsive design - http://sizzy.co/
+  
+## Bitcoint
+
+  https://bitcoinjs.org/
+
+## Webpack
+  - https://github.com/mozilla-rpweb/webpack-chain
+  - https://github.com/NekR/offline-plugin
+  - https://github.com/asfktz/autodll-webpack-plugin/blob/master/README.md
+
+## Javascript Utils
+
+  - AJAX calls from html attributes - https://github.com/LeadDyno/intercooler-js
+  - Image comparison - https://github.com/mapbox/pixelmatch?utm_source
+  - Type Effect 
+    - https://github.com/luisvinicius167/ityped
+    - https://safi.me.uk/typewriterjs/
+  - Motion - http://mojs.io/
+  - Animate.css using web animations API - https://github.com/gibbok/animatelo
+  - Video viewer Youtube, Vimeo & mp4 - https://github.com/henrygd/bigpicture
+  - Transform URLs to links - http://alexcorvi.github.io/anchorme.js
+  - Crossbrowser localStorage - https://github.com/marcuswestin/store.js
+  - Mini reset css - https://github.com/jgthms/minireset.css
+  - Move To - https://github.com/hsnaydd/moveTo
+  
+## Email
+  - Responsive emails made easy using React - https://mjml.io/
 
 ## SAAS
 
@@ -40,40 +75,6 @@
   - https://www.onradar.com/
   
 
-
-## Desktop
-
-  - Image compression for mac - https://realmacsoftware.com/squash/
-  - Take screenshots of your development while you develop - https://github.com/typicode/tlapse
-  - Test resolutions when responsive design - http://sizzy.co/
-  
-## Bitcoint
-
-  https://bitcoinjs.org/
-
-
-## Webpack
-  - https://github.com/mozilla-rpweb/webpack-chain
-  - https://github.com/NekR/offline-plugin
-  - https://github.com/asfktz/autodll-webpack-plugin/blob/master/README.md
-
-## Javascript Utils
-
-  - AJAX calls from html attributes - https://github.com/LeadDyno/intercooler-js
-  - Image comparison - https://github.com/mapbox/pixelmatch?utm_source
-  - Type Effect 
-    - https://github.com/luisvinicius167/ityped
-    - https://safi.me.uk/typewriterjs/
-  - Motion - http://mojs.io/
-  - Animate.css using web animations API - https://github.com/gibbok/animatelo
-  - Video viewer Youtube, Vimeo & mp4 - https://github.com/henrygd/bigpicture
-  - Transform URLs to links - http://alexcorvi.github.io/anchorme.js
-  - Crossbrowser localStorage - https://github.com/marcuswestin/store.js
-  - Mini reset css - https://github.com/jgthms/minireset.css
-  - Move To - https://github.com/hsnaydd/moveTo
-  
-## Email
-  - Responsive emails made easy using React - https://mjml.io/
-
 # MISC
   - https://www.and.co/the-freelance-contract
+  
