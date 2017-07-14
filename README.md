@@ -1,3 +1,16 @@
+# Core
+
+## Atom
+  - https://atom.io/packages/prettier-atom
+  - https://atom.io/packages/emmet
+  - https://atom.io/packages/language-babel
+
+## React
+  - https://github.com/zeit/next.js/
+
+
+<hl>
+
 # --- To Review ---
 
 ## IoT
@@ -6,7 +19,6 @@
 ## Atom
 
   - https://github.com/algolia/atom-autocomplete-module-import
-  - loggear código real time - https://wallabyjs.com
 
 ## React
   - Client and Server rendering simple - https://zeit.co/blog/next
