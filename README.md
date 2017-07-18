@@ -7,7 +7,7 @@
 
 ## React
   - https://github.com/zeit/next.js/
-
+  - https://github.com/acdlite/recompose
 
 
 
