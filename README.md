@@ -29,7 +29,7 @@
   - https://github.com/algolia/atom-autocomplete-module-import
 
 ## React
-  - Client and Server rendering simple - https://zeit.co/blog/next
+  - https://github.com/juliancwirko/react-npm-boilerplate
 
 ## Desktop
 
