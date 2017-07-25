@@ -9,6 +9,9 @@
   - https://github.com/zeit/next.js/
   - https://github.com/acdlite/recompose
 
+## Webpack
+  - https://www.npmjs.com/package/sw-precache-webpack-plugin
+  - https://www.npmjs.com/package/webpack-bundle-analyzer
 
 
 ***
@@ -43,6 +46,7 @@
   - https://github.com/NekR/offline-plugin
   - https://github.com/asfktz/autodll-webpack-plugin/blob/master/README.md
   - https://github.com/indutny/webpack-common-shake
+  - https://github.com/samccone/bundle-buddy
 
 ## Javascript Utils
 
