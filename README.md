@@ -30,6 +30,8 @@
 
 ## React
   - https://github.com/juliancwirko/react-npm-boilerplate
+  - https://www.gatsbyjs.org/docs/building-with-components/
+  - https://github.com/phenomic/phenomic
 
 ## Desktop
 
@@ -97,7 +99,6 @@
   
   ### Real Time
   - https://www.pusher.com/
-  
 
 # MISC
   - https://www.and.co/the-freelance-contract
