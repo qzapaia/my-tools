@@ -21,6 +21,8 @@
 
 # --- To Review ---
 
+## Node
+  - Express alternative - https://github.com/fastify/fastify
 ## IoT
   - Create displays anywhere - http://googlecreativelab.github.io/anypixel/
   
@@ -57,6 +59,7 @@
   - Type Effect 
     - https://github.com/luisvinicius167/ityped
     - https://safi.me.uk/typewriterjs/
+    - https://github.com/camwiegert/baffle
   - Motion - http://mojs.io/
   - Animate.css using web animations API - https://github.com/gibbok/animatelo
   - Video viewer Youtube, Vimeo & mp4 - https://github.com/henrygd/bigpicture
