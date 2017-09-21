@@ -13,6 +13,8 @@
   - https://www.npmjs.com/package/sw-precache-webpack-plugin
   - https://www.npmjs.com/package/webpack-bundle-analyzer
 
+## Babel
+  - https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros
 
 ***
 
